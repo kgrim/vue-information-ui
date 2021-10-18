@@ -1,4 +1,6 @@
-# t
+# An information switch UI
+
+This project is using Vue 3 to display the correct information between different sections. It is currently live on [Codesandbox](https://h8yyi.csb.app/).
 
 ## Project setup
 ```
